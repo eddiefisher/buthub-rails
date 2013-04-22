@@ -6,6 +6,7 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
+    gem 'font-awesome-rails'
     gem 'buthub-rails', :git => 'git://github.com/eddiefisher/buthub-rails.git'
 
 And then execute:
@@ -28,7 +29,7 @@ for application.css.scss
 
 Add this line to your application.js
 
-    *= require 'buthub-rails'
+    //= require 'buthub-rails'
 
 ## Contributing
 
