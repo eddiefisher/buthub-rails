@@ -285,12 +285,12 @@ input[type=text]+.button {
     box-shadow: -1px 0 0 #e4e4e4;
 }
 .button.switcher:hover>span:after {
-background-color: #ccсссc;
+background-color: #ccc;
 box-shadow: -1px 0 0 #aaa;
 
 }
 .button.switcher:active>span:after {
-background-color: #ccсссc;
+background-color: #ccc;
 box-shadow: -1px 0 0 #aaa;
 }
 .button.switcher.with-image {
@@ -387,7 +387,7 @@ box-shadow: -1px 0 0 #aaa;
     text-decoration: none;
 }
 .hidden-text-expander a:hover {
-    background-color: #ссc;
+    background-color: #ccc;
     text-decoration: none;
 }
 .hidden-text-expander a:active {
@@ -406,7 +406,7 @@ box-shadow: -1px 0 0 #aaa;
     color: #333333;
     vertical-align: middle;
     background-color: #fafafa;
-    border: 1px solid #ссc;
+    border: 1px solid #ccc;
     border-radius: 3px;
     text-decoration: none;
 }
@@ -420,7 +420,7 @@ box-shadow: -1px 0 0 #aaa;
     display: block;
     width: 0;
     height: 0;
-    border: 6px solid #ссc;
+    border: 6px solid #ccc;
     border-color: transparent #ccc transparent transparent;
     position: absolute;
     right: 100%;
