@@ -55,8 +55,6 @@
     cursor: default;
     box-shadow: none;
 }
-/* colors */
-/* primary */
 .button.primary {
     color: #fff;
     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
@@ -91,7 +89,6 @@
     background-repeat: repeat-x;
     border-color: #74bb5a #74bb5a #509338;
 }
-/* danger */
 .button.danger {
     color: #900;
 }
@@ -121,7 +118,6 @@
     background-repeat: repeat-x;
     border-color: #c5c5c5;
 }
-/* blue */
 .button.blue, .button.blue:hover {
     color: #fff;
     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
@@ -144,7 +140,6 @@
 .button.blue:disabled, .button.blue.disabled {
     background-position: 0 0;
 }
-/* dark-grey */
 .button.dark-grey, .button.dark-grey:hover {
     color: #fff;
     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
@@ -165,8 +160,6 @@
     border-color: #474747;
     box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.15);
 }
-/* end colors */
-/* size */
 .button.large {
     padding: 7px 15px;
     font-size: 13px;
@@ -177,7 +170,7 @@
     font-size: 19px;
     line-height: 20px;
 }
-/* */
+
 .button:focus {
     text-decoration: none;
     border-color: #51a7e8;
@@ -292,16 +285,12 @@ input[type=text]+.button {
     box-shadow: -1px 0 0 #e4e4e4;
 }
 .button.switcher:hover>span:after {
-/*    background-color: #6a9fd3;*/c5c5c5
-/*    box-shadow: -1px 0 0 #3c74ab;*/
-background-color: #ccc;
+background-color: #ccсссc;
 box-shadow: -1px 0 0 #aaa;
 
 }
 .button.switcher:active>span:after {
-/*    background-color: #357ec8;*/
-/*    box-shadow: -1px 0 0 #25588c;*/
-background-color: #ccc;
+background-color: #ccсссc;
 box-shadow: -1px 0 0 #aaa;
 }
 .button.switcher.with-image {
@@ -398,14 +387,14 @@ box-shadow: -1px 0 0 #aaa;
     text-decoration: none;
 }
 .hidden-text-expander a:hover {
-    background-color: #ccc;
+    background-color: #ccсссc;
     text-decoration: none;
 }
 .hidden-text-expander a:active {
     background-color: #4183C4;
     color: #fff;
 }
-/* social count */
+
 .social-count, a.social-count {
     position: relative;
     display: inline-block;
@@ -417,7 +406,7 @@ box-shadow: -1px 0 0 #aaa;
     color: #333333;
     vertical-align: middle;
     background-color: #fafafa;
-    border: 1px solid #ccc;
+    border: 1px solid #ccсссc;
     border-radius: 3px;
     text-decoration: none;
 }
@@ -431,7 +420,7 @@ box-shadow: -1px 0 0 #aaa;
     display: block;
     width: 0;
     height: 0;
-    border: 6px solid #ccc;
+    border: 6px solid #ccсссc;
     border-color: transparent #ccc transparent transparent;
     position: absolute;
     right: 100%;
@@ -452,7 +441,7 @@ box-shadow: -1px 0 0 #aaa;
     top: 50%;
     margin-top: -6px;
 }
-/* button group */
+
 .button-group {
     display: inline-block;
     vertical-align: middle;
