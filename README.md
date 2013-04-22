@@ -18,7 +18,17 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add this line to your application.css
+
+    *= require 'buthub-rails'
+
+for application.css.scss
+
+    @import 'buthub-rails';
+
+Add this line to your application.js
+
+    *= require 'buthub-rails'
 
 ## Contributing
 
